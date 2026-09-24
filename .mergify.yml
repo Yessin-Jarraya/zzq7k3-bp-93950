@@ -1,0 +1,6 @@
+pull_request_rules:
+  - name: zzq7k3 update probe
+    conditions:
+      - base = zzq7k3-feature
+    actions:
+      update:
